@@ -1,5 +1,23 @@
-d 'DEA': Data envelopment analysis
+d 'xtsel': Selection of variables and specification in a panel-data framework Use xtsel (xtselvar And xtselvar) With STATA 18
 d
-f dea.ado
-f dea.sthlp
-f coelli_table6.4.dta
+f matsort.ado
+f matsort.hlp
+f predictu.ado
+f st_tuples_py.py
+f tuples.ado
+f tuples.hlp
+f tuples.sthlp
+f xtoos.sthlp
+f xtoos_bin_i.ado
+f xtoos_bin_i.sthlp
+f xtoos_bin_t.ado
+f xtoos_bin_t.sthlp
+f xtoos_i.ado
+f xtoos_i.sthlp
+f xtoos_t.ado
+f xtoos_t.sthlp
+f xtsel.sthlp
+f xtselmod.ado
+f xtselmod.sthlp
+f xtselvar.ado
+f xtselvar.sthlp
