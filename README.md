@@ -1,5 +1,7 @@
 # xtsel
-Selection of variables and specification in a panel-data framework Use xtsel (xtselvar And xtselvar) With STATA 18
+Selection of variables and specification in a panel-data framework Use xtsel (xtselvar And xtselmod) With STATA 18
+
+https://www.youtube.com/watch?v=mT8rq0Em5NY
 
 Olah Data Semarang
 
